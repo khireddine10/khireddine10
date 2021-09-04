@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-![khireddine GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![khireddine GitHub stats](https://github-readme-stats.vercel.app/api?username=khireddine10&show_icons=true&theme=radical)
 
 </details>
 
