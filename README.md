@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BELKHIRIKhired1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BELKHIRIKhired1)
 
-## I'm a Student, Network Automation engineer, CTF player, and Web developer, Future Red Teamer!!
+## I'm a Student, Network Automation engineer, CTF player, Web developer, Future Red Teamer!!
 
 - 🌱 I'm currently learning reverse engineering and binary exploitation
 - 👯 I’m looking to collaborate with other students and project creators
