@@ -24,7 +24,7 @@
 [<img align="left" alt="khireddine10 | HackTheBox" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" />][htb]
 [<img align="left" alt="khireddine10 | Hackerone" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" />][bugcrowd]
-[<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" />][medium]
+[<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
