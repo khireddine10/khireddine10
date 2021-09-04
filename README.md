@@ -21,7 +21,6 @@
 ### where you find me:
 
 [<img align="left" alt="khireddine10 | HackTheBox" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" />][htb]
-[<img align="left" alt="khireddine10 | TryHackMe" width="22px" src="" />][thm]
 [<img align="left" alt="khireddine10 | Hackerone" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" />][bugcrowd]
 <br />
