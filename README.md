@@ -15,14 +15,16 @@
 [<img align="left" alt="khireddine10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="khireddine10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="khireddine10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="khireddine10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
-### where you find me:
+### Other web sites you can find me in:
 
 [<img align="left" alt="khireddine10 | HackTheBox" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" />][htb]
 [<img align="left" alt="khireddine10 | Hackerone" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerone.svg" />][hackerone]
 [<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" />][bugcrowd]
+[<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -63,7 +65,8 @@
 [twitter]: https://twitter.com/BELKHIRIKhired1
 [instagram]: https://www.instagram.com/khireddine_belkhiri/
 [linkedin]: https://www.linkedin.com/in/khireddine-belkhiri-074086182/
+[facebook]: https://www.facebook.com/khirou.mamado.sakhou/
 [htb]: https://app.hackthebox.eu/profile/473061
-[thm]: https://tryhackme.com/p/khirou
 [hackerone]: https://hackerone.com/khirou
 [bugcrowd]: https://bugcrowd.com/khirou
+[medium]: https://khireddinekhirou123.medium.com/
