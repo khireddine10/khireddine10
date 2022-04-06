@@ -65,6 +65,6 @@
 [linkedin]: https://www.linkedin.com/in/khireddine-belkhiri-074086182/
 [facebook]: https://www.facebook.com/khirou.mamado.sakhou/
 [htb]: https://app.hackthebox.eu/profile/473061
-[hackerone]: https://hackerone.com/khirou
-[bugcrowd]: https://bugcrowd.com/khirou
+[hackerone]: https://hackerone.com/test
+[bugcrowd]: https://bugcrowd.com/test
 [medium]: https://khireddinekhirou123.medium.com/
