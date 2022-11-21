@@ -2,11 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BELKHIRIKhired1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BELKHIRIKhired1)
 
-## I'm a Student, Network Automation engineer, CTF player, Web developer, Future Red Teamer!!
+## I'm a Student, Part time Bug hunter, Web3 developer, Future Red Teamer!!
 
-- 🌱 I'm currently learning reverse engineering and binary exploitation
+- 🌱 I'm currently learning ethereum and smart contract developement, also red teaming
 - 👯 I’m looking to collaborate with other students and project creators
-- 🥅 2022 Goals: participate in more ctf's, start bug bounty hunting, ,learn more
+- 🥅 2022 Goals: learn more
 - 🥅 My career goal: be a researcher in cyber security
 - ⚡ Fun fact: I love to run long distances, and listen to music
 
