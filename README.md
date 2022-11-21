@@ -14,8 +14,7 @@
 
 [<img align="left" alt="khireddine10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="khireddine10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="khireddine10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="khireddine10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="khireddine10 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -23,8 +22,6 @@
 
 [<img align="left" alt="khireddine10 | HackTheBox" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg" />][htb]
 [<img align="left" alt="khireddine10 | Hackerone" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerone.svg" />][hackerone]
-[<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bugcrowd.svg" />][bugcrowd]
-[<img align="left" alt="khireddine10 | bugcrowd" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
