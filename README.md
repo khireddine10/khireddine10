@@ -1,6 +1,5 @@
 ### Hi there, I'm Khireddine BELKHIRI - aka [khirou] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/BELKHIRIKhired1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BELKHIRIKhired1)
 
 ## I'm a Student, Part time Bug hunter, Web3 developer, Future Red Teamer!!
 
@@ -11,8 +10,6 @@
 - ⚡ Fun fact: I love to run long distances, and listen to music
 
 ### Connect with me:
-
-[<img align="left" alt="khireddine10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="khireddine10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="khireddine10 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
